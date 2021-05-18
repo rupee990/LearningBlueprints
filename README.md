@@ -15,4 +15,4 @@ Problem 1_2: 2 Buttons 1 Door: here we explore arrays, and how we can expand our
 
 Problem 1_3: Simple interactive button, that opens and closes the door.
 
-
+Problem 1_4_Bonus: Use a Physics box to open the door
